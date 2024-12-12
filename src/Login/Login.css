@@ -1,0 +1,87 @@
+.main-div{
+    width: 360px;
+    margin-bottom: 200px;
+    
+}
+.center{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.img{
+    height:180px ;
+    width: 100px;
+    margin-right:10px ;
+    margin-bottom: 10px;
+}
+.login-page-imgs{
+    flex-wrap: wrap;
+}
+
+.logo{
+    height: 60px;
+    width: 60px;
+    
+}
+
+.tittle{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+}
+.align{
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.login-btn{
+    height: 36px;
+    width: 200px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    margin-bottom: 16px;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: black;
+}
+.google-btn{
+    height: 36px;
+    width: 200px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    border-style: solid;
+    border-color: black;
+    background-color: black;
+    color: white;
+}
+
+.google-logo{
+    height: 18px;
+    width: 18px;
+    margin-right: 12px;
+
+}
+.login-div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
